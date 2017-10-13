@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Poster.cs">
+    <Files>
+      <File FileName="Assets\Scripts\NotificationsManager.cs" Line="26" Column="15" />
+      <File FileName="Assets\Scripts\Listener.cs" Line="23" Column="2" />
+      <File FileName="Assets\Scripts\Poster.cs" Line="16" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
